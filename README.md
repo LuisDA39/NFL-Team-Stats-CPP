@@ -1,7 +1,7 @@
 # NFL-team-stats-cpp
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="100" />
+  <img src="https://iconos8.es/icon/39737/nfl" width="100" />
 </p>
 <p align="center">
     <h1 align="center">NFL-TEAM-STATS-CPP</h1>
