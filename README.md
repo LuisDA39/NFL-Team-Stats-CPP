@@ -1,6 +1,3 @@
-# NFL-team-stats-cpp
-
-
 <p align="center">
     <h1 align="center">NFL-TEAM-STATS-CPP</h1>
 </p>
