@@ -1,7 +1,7 @@
 # NFL-team-stats-cpp
 
 <p align="center">
-  <img src="[https://cdn-icons-png.flaticon.com/512/6295/6295417.png](https://static.vecteezy.com/system/resources/previews/027/127/585/original/nfl-logo-nfl-icon-transparent-free-png.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.dreamstime.com%2Fillustration%2Fnfl.html&psig=AOvVaw20K__iVgMjPCdPLe9tRgCp&ust=1718761091594000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj30pOC5IYDFQAAAAAdAAAAABAE)" width="100" />
+  <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png](https://static.vecteezy.com/system/resources/previews/027/127/585/original/nfl-logo-nfl-icon-transparent-free-png.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.dreamstime.com%2Fillustration%2Fnfl.html&psig=AOvVaw20K__iVgMjPCdPLe9tRgCp&ust=1718761091594000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj30pOC5IYDFQAAAAAdAAAAABAE)" width="100" />
 </p>
 <p align="center">
     <h1 align="center">NFL-TEAM-STATS-CPP</h1>
